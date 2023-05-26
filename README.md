@@ -1,7 +1,5 @@
 # Machine-Learning
 
-* [中文（简体）](https://github.com/Jack-Cherish/Machine-Learning/blob/master/README.md "悬停显示")<br>
-
 * Personal Use.<br>
 
 * From: http://cuijiahua.com/
